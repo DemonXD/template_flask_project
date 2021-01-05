@@ -1,0 +1,8 @@
+.idea
+venv
+*.log
+*.db
+*.sqlite
+.vscode/
+*.md
+!readme.md
